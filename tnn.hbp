@@ -1,0 +1,3 @@
+tnn.prg
+
+-ldflag=/NODEFAULTLIB:msvcrt
